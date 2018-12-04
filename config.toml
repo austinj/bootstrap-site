@@ -1,6 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Inland Behavior Lab"
+subtitle = "Helping teachers help kids"
 theme = "bootstrap-theme"
 relativeURLs = true
 
@@ -15,6 +16,12 @@ googleAnalytics = "UA-xxxxx-1"
     name = "About"
     url = "/about/"
     weight = 100
+
+  [[menu.main]]
+    identifier = "recipes"
+    name = "Recipes"
+    url = "/recipes/"
+    weight = 105
 
   [[menu.main]]
     identifier = "tags"

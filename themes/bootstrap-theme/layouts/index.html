@@ -1,9 +1,36 @@
 {{ define "main" }}
 <div class="jumbotron">
+  <video id="video-background" preload muted autoplay loop>
+    <source src="video/movie3.mp4" type="video/mp4">
+  </video>
   <div class="container">
-    <h1 class="display-4">This could be the title</h1>
-    <p class="lead">Here's some description stuff</p>
-    <p>There's also other things that are super nice</p>
+    <h1 class="display-3"><p class="text-light">Helping teachers help kids</p></h1>
+    <p class="text-light">We're changing the way educators support student behavior. We give you the tools, information, and materials. And you make the choice.</p>
+    <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
   </div>
+</div>
+
+<div class="container">
+  <!-- Example row of columns -->
+  <div class="row">
+    <div class="col-md-4">
+      <h2>Whole class</h2>
+      <p>Start simple. Something you can use every year, maybe make some tweaks to once in a while, but that you love and that your kids are excited about. Make a plan, dial it in, and make it part of your day. The best tools are the ones we use so much, we forget they're there.</p>
+      <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+      <h2>Small groups</h2>
+      <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+      <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+      <h2>Individual students</h2>
+      <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+      <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+    </div>
+  </div>
+
+  <hr>
+
 </div>
 {{ end }}
