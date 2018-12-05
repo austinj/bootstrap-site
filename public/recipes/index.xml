@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipes on Inland Behavior Lab</title>
+    <link>http://example.org/recipes/</link>
+    <description>Recent content in Recipes on Inland Behavior Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Dec 2018 16:39:25 -0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/recipes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gbg</title>
+      <link>http://example.org/recipes/gbg/</link>
+      <pubDate>Mon, 03 Dec 2018 16:39:25 -0800</pubDate>
+      
+      <guid>http://example.org/recipes/gbg/</guid>
+      <description>Good Behavior Game Why would I use this? Because you like the idea of students working together in teams to support one another towards being successful. You have specific time periods during the day when you&amp;rsquo;d really like to focus in on supporting positive behavior.
+What&amp;rsquo;s good about this? It can be done without any materials besides a white-board, it&amp;rsquo;s flexible towards the behaviors you want to encourage among your students, and it&amp;rsquo;s got a long history of success.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>One on Inland Behavior Lab</title>
+    <link>http://example.org/tags/one/</link>
+    <description>Recent content in One on Inland Behavior Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Dec 2018 15:37:59 -0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/one/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sample_post</title>
+      <link>http://example.org/posts/sample_post/</link>
+      <pubDate>Mon, 03 Dec 2018 15:37:59 -0800</pubDate>
+      
+      <guid>http://example.org/posts/sample_post/</guid>
+      <description>One of the things I&amp;rsquo;m very interested in is writing words and seeing them on the page.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/about/about/</loc>
+    <lastmod>2018-12-04T11:15:23-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/piping/gbg/</loc>
+    <lastmod>2018-12-03T16:39:25-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/recipes/gbg/</loc>
+    <lastmod>2018-12-03T16:39:25-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/sample_post/</loc>
+    <lastmod>2018-12-03T15:37:59-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/sample_post2/</loc>
+    <lastmod>2018-10-19T16:54:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2018-12-04T11:15:23-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2018-12-04T11:15:23-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/one/</loc>
+    <lastmod>2018-12-03T15:37:59-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/piping/</loc>
+    <lastmod>2018-12-03T16:39:25-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2018-12-03T15:37:59-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/recipes/</loc>
+    <lastmod>2018-12-03T16:39:25-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2018-12-03T15:37:59-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/two/</loc>
+    <lastmod>2018-12-03T15:37:59-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

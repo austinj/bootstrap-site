@@ -24,6 +24,12 @@ googleAnalytics = "UA-xxxxx-1"
     weight = 105
 
   [[menu.main]]
+    identifier = "piping"
+    name = "Piping"
+    url = "/piping/"
+    weight = 106
+
+  [[menu.main]]
     identifier = "tags"
     name = "Tags"
     url = "/tags/"
